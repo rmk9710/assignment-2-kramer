@@ -29,11 +29,7 @@ These are some cities and locations I would recommend visiting and approximately
 ### Code Snippet
 
 > Is there an easy way to take a string of html in JavaScript and strip out the html?
-<br>
-Question Source <https://stackoverflow.com/questions/822452/strip-html-from-text-javascript>
-<br>
-Code Source <https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
-<br>
+
 ~~~ const originalString = `
   <div>
     <p>Hey that's <span>somthing</span></p>
