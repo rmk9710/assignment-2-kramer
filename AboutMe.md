@@ -39,4 +39,5 @@ Question Source <https://stackoverflow.com/questions/822452/strip-html-from-text
 const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
 
 console.log(strippedString);~~~
-###### Code Source <https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
+
+Code Source <https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
