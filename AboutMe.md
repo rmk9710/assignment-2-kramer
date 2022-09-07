@@ -6,10 +6,10 @@ I am a Digital Media: Computer Science major in my last semester of education. I
 
 ### Cities I would recommend visiting
 
-This is a truth table
-| P | Q | P and Q |
+These are some cities and locations I would recommend visiting and approximately how long you would need to visit them.
+| Cities | Locations | Time to spend |
 | --- | --- | ---: |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
+| St. Louis | Arch | 2 hours |
+| Las Vegas | Las Vegas Strip | Multiple Days |
+| Orlando | Universal Studios | 6 hours |
+| Seattle | Space Needle | 1-2 hours |
