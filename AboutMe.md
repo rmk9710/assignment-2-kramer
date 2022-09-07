@@ -29,7 +29,7 @@ These are some cities and locations I would recommend visiting and approximately
 ### Code Snippet
 
 > Is there an easy way to take a string of html in JavaScript and strip out the html?
-![QuestionSource](https://stackoverflow.com/questions/822452/strip-html-from-text-javascript)
+Question Source <https://stackoverflow.com/questions/822452/strip-html-from-text-javascript>
 ~~~ const originalString = `
   <div>
     <p>Hey that's <span>somthing</span></p>
@@ -39,4 +39,4 @@ These are some cities and locations I would recommend visiting and approximately
 const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
 
 console.log(strippedString);~~~
-![CodeSource](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)
+Code Source <https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
