@@ -19,6 +19,6 @@ These are some cities and locations I would recommend visiting and approximately
 ### Favorite Quotes 
 
 > I survived because the fire inside me burned brighter than the fire around me. 
-* -Joshua Graham
+*-Joshua Graham
 > To see a World in a Grain of Sand. And a Heaven in a Wild Flower. Hold Infinity in the palm of your hand. And Eternity in an hour. 
- * -William Blake
+ *-William Blake
