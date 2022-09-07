@@ -23,3 +23,20 @@ These are some cities and locations I would recommend visiting and approximately
 
 > To see a World in a Grain of Sand. And a Heaven in a Wild Flower. Hold Infinity in the palm of your hand. And Eternity in an hour. 
 *William Blake*
+
+---
+
+### Code Snippet
+
+> Is there an easy way to take a string of html in JavaScript and strip out the html?
+![QuestionSource](https://stackoverflow.com/questions/822452/strip-html-from-text-javascript)
+~~~ const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);~~~
+![CodeSource](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)
